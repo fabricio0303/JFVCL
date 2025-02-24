@@ -1,8 +1,8 @@
 # JFVCL
-Biblioteca de componentes visuais Delphi
+Biblioteca de componentes visuais para Delphi
 
 Componentes visuais baseados em componentes nativos da VCL, porém com propriedades adicionais e estilos modernos.
-Compatível com com versões a partir da XE2.
+Compatível com versões a partir da XE2.
 
 # Componentes:
 - JFButton
