@@ -1,2 +1,2 @@
 # JFVCL
-Componentes visuais VCL
+Biblioteca de componentes visuais Delphi
